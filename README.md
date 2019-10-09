@@ -6,3 +6,5 @@ ddddd
 ändrat hos fredde
 
 konflikt
+
+konflikt här med
